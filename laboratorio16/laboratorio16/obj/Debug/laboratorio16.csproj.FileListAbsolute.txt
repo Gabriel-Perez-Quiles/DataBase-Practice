@@ -1,0 +1,9 @@
+E:\visual comp\laboratorio16\laboratorio16\bin\Debug\laboratorio16.exe.config
+E:\visual comp\laboratorio16\laboratorio16\bin\Debug\laboratorio16.exe
+E:\visual comp\laboratorio16\laboratorio16\bin\Debug\laboratorio16.pdb
+E:\visual comp\laboratorio16\laboratorio16\obj\Debug\laboratorio16.csprojResolveAssemblyReference.cache
+E:\visual comp\laboratorio16\laboratorio16\obj\Debug\laboratorio16.Form1.resources
+E:\visual comp\laboratorio16\laboratorio16\obj\Debug\laboratorio16.Properties.Resources.resources
+E:\visual comp\laboratorio16\laboratorio16\obj\Debug\laboratorio16.csproj.GenerateResource.Cache
+E:\visual comp\laboratorio16\laboratorio16\obj\Debug\laboratorio16.exe
+E:\visual comp\laboratorio16\laboratorio16\obj\Debug\laboratorio16.pdb

@@ -1,0 +1,9 @@
+E:\visual comp\laboratorio13\laboratorio13\bin\Debug\laboratorio13.exe.config
+E:\visual comp\laboratorio13\laboratorio13\bin\Debug\laboratorio13.exe
+E:\visual comp\laboratorio13\laboratorio13\bin\Debug\laboratorio13.pdb
+E:\visual comp\laboratorio13\laboratorio13\obj\Debug\laboratorio13.csprojResolveAssemblyReference.cache
+E:\visual comp\laboratorio13\laboratorio13\obj\Debug\laboratorio13.Form1.resources
+E:\visual comp\laboratorio13\laboratorio13\obj\Debug\laboratorio13.Properties.Resources.resources
+E:\visual comp\laboratorio13\laboratorio13\obj\Debug\laboratorio13.csproj.GenerateResource.Cache
+E:\visual comp\laboratorio13\laboratorio13\obj\Debug\laboratorio13.exe
+E:\visual comp\laboratorio13\laboratorio13\obj\Debug\laboratorio13.pdb

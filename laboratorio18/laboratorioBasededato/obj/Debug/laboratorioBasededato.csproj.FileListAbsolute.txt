@@ -1,0 +1,47 @@
+E:\visual comp\laboratorioBasededato\laboratorioBasededato\bin\Debug\laboratorioBasededato.exe.config
+E:\visual comp\laboratorioBasededato\laboratorioBasededato\bin\Debug\Databasepractica1.accdb
+E:\visual comp\laboratorioBasededato\laboratorioBasededato\bin\Debug\Databasepractica1DataSet.Designer.cs
+E:\visual comp\laboratorioBasededato\laboratorioBasededato\bin\Debug\Databasepractica1DataSet.xsc
+E:\visual comp\laboratorioBasededato\laboratorioBasededato\bin\Debug\Databasepractica1DataSet.xsd
+E:\visual comp\laboratorioBasededato\laboratorioBasededato\bin\Debug\Databasepractica1DataSet.xss
+E:\visual comp\laboratorioBasededato\laboratorioBasededato\bin\Debug\laboratorioBasededato.exe
+E:\visual comp\laboratorioBasededato\laboratorioBasededato\bin\Debug\laboratorioBasededato.pdb
+E:\visual comp\laboratorioBasededato\laboratorioBasededato\obj\Debug\laboratorioBasededato.csprojResolveAssemblyReference.cache
+E:\visual comp\laboratorioBasededato\laboratorioBasededato\obj\Debug\laboratorioBasededato.Form1.resources
+E:\visual comp\laboratorioBasededato\laboratorioBasededato\obj\Debug\laboratorioBasededato.Properties.Resources.resources
+E:\visual comp\laboratorioBasededato\laboratorioBasededato\obj\Debug\laboratorioBasededato.csproj.GenerateResource.Cache
+E:\visual comp\laboratorioBasededato\laboratorioBasededato\obj\Debug\laboratorioBasededato.exe
+E:\visual comp\laboratorioBasededato\laboratorioBasededato\obj\Debug\laboratorioBasededato.pdb
+E:\visual comp\laboratorio18Basededato\laboratorioBasededato\bin\Debug\laboratorioBasededato.exe.config
+E:\visual comp\laboratorio18Basededato\laboratorioBasededato\obj\Debug\laboratorioBasededato.exe
+E:\visual comp\laboratorio18Basededato\laboratorioBasededato\obj\Debug\laboratorioBasededato.pdb
+C:\Users\Asus\Desktop\Universidad Gabriel\Bases de Datos\laboratorio18Basededato\laboratorioBasededato\bin\Debug\Databasepractica1.accdb
+C:\Users\Asus\Desktop\Universidad Gabriel\Bases de Datos\laboratorio18Basededato\laboratorioBasededato\bin\Debug\Databasepractica1DataSet.Designer.cs
+C:\Users\Asus\Desktop\Universidad Gabriel\Bases de Datos\laboratorio18Basededato\laboratorioBasededato\bin\Debug\Databasepractica1DataSet.xsc
+C:\Users\Asus\Desktop\Universidad Gabriel\Bases de Datos\laboratorio18Basededato\laboratorioBasededato\bin\Debug\Databasepractica1DataSet.xsd
+C:\Users\Asus\Desktop\Universidad Gabriel\Bases de Datos\laboratorio18Basededato\laboratorioBasededato\bin\Debug\Databasepractica1DataSet.xss
+C:\Users\Asus\Desktop\Universidad Gabriel\Bases de Datos\laboratorio18Basededato\laboratorioBasededato\bin\Debug\laboratorioBasededato.exe.config
+C:\Users\Asus\Desktop\Universidad Gabriel\Bases de Datos\laboratorio18Basededato\laboratorioBasededato\bin\Debug\laboratorioBasededato.exe
+C:\Users\Asus\Desktop\Universidad Gabriel\Bases de Datos\laboratorio18Basededato\laboratorioBasededato\bin\Debug\laboratorioBasededato.pdb
+C:\Users\Asus\Desktop\Universidad Gabriel\Bases de Datos\laboratorio18Basededato\laboratorioBasededato\obj\Debug\laboratorioBasededato.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Universidad Gabriel\Bases de Datos\laboratorio18Basededato\laboratorioBasededato\obj\Debug\laboratorioBasededato.Form1.resources
+C:\Users\Asus\Desktop\Universidad Gabriel\Bases de Datos\laboratorio18Basededato\laboratorioBasededato\obj\Debug\laboratorioBasededato.Properties.Resources.resources
+C:\Users\Asus\Desktop\Universidad Gabriel\Bases de Datos\laboratorio18Basededato\laboratorioBasededato\obj\Debug\laboratorioBasededato.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\Universidad Gabriel\Bases de Datos\laboratorio18Basededato\laboratorioBasededato\obj\Debug\laboratorioBasededato.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Universidad Gabriel\Bases de Datos\laboratorio18Basededato\laboratorioBasededato\obj\Debug\laboratorioBasededato.exe
+C:\Users\Asus\Desktop\Universidad Gabriel\Bases de Datos\laboratorio18Basededato\laboratorioBasededato\obj\Debug\laboratorioBasededato.pdb
+C:\Users\Asus\Desktop\All folders\Universidad Gabriel\Bases de Datos\laboratorio18\laboratorioBasededato\bin\Debug\Databasepractica1.accdb
+C:\Users\Asus\Desktop\All folders\Universidad Gabriel\Bases de Datos\laboratorio18\laboratorioBasededato\bin\Debug\Databasepractica1DataSet.Designer.cs
+C:\Users\Asus\Desktop\All folders\Universidad Gabriel\Bases de Datos\laboratorio18\laboratorioBasededato\bin\Debug\Databasepractica1DataSet.xsc
+C:\Users\Asus\Desktop\All folders\Universidad Gabriel\Bases de Datos\laboratorio18\laboratorioBasededato\bin\Debug\Databasepractica1DataSet.xsd
+C:\Users\Asus\Desktop\All folders\Universidad Gabriel\Bases de Datos\laboratorio18\laboratorioBasededato\bin\Debug\Databasepractica1DataSet.xss
+C:\Users\Asus\Desktop\All folders\Universidad Gabriel\Bases de Datos\laboratorio18\laboratorioBasededato\bin\Debug\laboratorioBasededato.exe.config
+C:\Users\Asus\Desktop\All folders\Universidad Gabriel\Bases de Datos\laboratorio18\laboratorioBasededato\bin\Debug\laboratorioBasededato.exe
+C:\Users\Asus\Desktop\All folders\Universidad Gabriel\Bases de Datos\laboratorio18\laboratorioBasededato\bin\Debug\laboratorioBasededato.pdb
+C:\Users\Asus\Desktop\All folders\Universidad Gabriel\Bases de Datos\laboratorio18\laboratorioBasededato\obj\Debug\laboratorioBasededato.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\All folders\Universidad Gabriel\Bases de Datos\laboratorio18\laboratorioBasededato\obj\Debug\laboratorioBasededato.Form1.resources
+C:\Users\Asus\Desktop\All folders\Universidad Gabriel\Bases de Datos\laboratorio18\laboratorioBasededato\obj\Debug\laboratorioBasededato.Properties.Resources.resources
+C:\Users\Asus\Desktop\All folders\Universidad Gabriel\Bases de Datos\laboratorio18\laboratorioBasededato\obj\Debug\laboratorioBasededato.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\All folders\Universidad Gabriel\Bases de Datos\laboratorio18\laboratorioBasededato\obj\Debug\laboratorioBasededato.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\All folders\Universidad Gabriel\Bases de Datos\laboratorio18\laboratorioBasededato\obj\Debug\laboratorioBasededato.exe
+C:\Users\Asus\Desktop\All folders\Universidad Gabriel\Bases de Datos\laboratorio18\laboratorioBasededato\obj\Debug\laboratorioBasededato.pdb

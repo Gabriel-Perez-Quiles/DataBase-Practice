@@ -1,0 +1,10 @@
+E:\visual comp\laboratorio10\laboratorio10\bin\Debug\laboratorio10.exe.config
+E:\visual comp\laboratorio10\laboratorio10\bin\Debug\laboratorio10.exe
+E:\visual comp\laboratorio10\laboratorio10\bin\Debug\laboratorio10.pdb
+E:\visual comp\laboratorio10\laboratorio10\obj\Debug\laboratorio10.csprojResolveAssemblyReference.cache
+E:\visual comp\laboratorio10\laboratorio10\obj\Debug\laboratorio10.Form1.resources
+E:\visual comp\laboratorio10\laboratorio10\obj\Debug\laboratorio10.Properties.Resources.resources
+E:\visual comp\laboratorio10\laboratorio10\obj\Debug\laboratorio10.csproj.GenerateResource.Cache
+E:\visual comp\laboratorio10\laboratorio10\obj\Debug\laboratorio10.exe
+E:\visual comp\laboratorio10\laboratorio10\obj\Debug\laboratorio10.pdb
+E:\visual comp\laboratorio10\laboratorio10\obj\Debug\laboratorio10.Form2.resources

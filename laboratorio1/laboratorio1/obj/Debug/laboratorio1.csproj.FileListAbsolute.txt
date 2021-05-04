@@ -1,0 +1,29 @@
+E:\visual comp\laboratorio1\laboratorio1\bin\Debug\laboratorio1.exe.config
+E:\visual comp\laboratorio1\laboratorio1\bin\Debug\laboratorio1.exe
+E:\visual comp\laboratorio1\laboratorio1\bin\Debug\laboratorio1.pdb
+E:\visual comp\laboratorio1\laboratorio1\obj\Debug\laboratorio1.csprojResolveAssemblyReference.cache
+E:\visual comp\laboratorio1\laboratorio1\obj\Debug\laboratorio1.lab1.resources
+E:\visual comp\laboratorio1\laboratorio1\obj\Debug\laboratorio1.Properties.Resources.resources
+E:\visual comp\laboratorio1\laboratorio1\obj\Debug\laboratorio1.csproj.GenerateResource.Cache
+E:\visual comp\laboratorio1\laboratorio1\obj\Debug\laboratorio1.exe
+E:\visual comp\laboratorio1\laboratorio1\obj\Debug\laboratorio1.pdb
+D:\visual comp\laboratorio1\laboratorio1\bin\Debug\laboratorio1.exe.config
+D:\visual comp\laboratorio1\laboratorio1\bin\Debug\laboratorio1.exe
+D:\visual comp\laboratorio1\laboratorio1\bin\Debug\laboratorio1.pdb
+D:\visual comp\laboratorio1\laboratorio1\obj\Debug\laboratorio1.csprojResolveAssemblyReference.cache
+D:\visual comp\laboratorio1\laboratorio1\obj\Debug\laboratorio1.lab1.resources
+D:\visual comp\laboratorio1\laboratorio1\obj\Debug\laboratorio1.Properties.Resources.resources
+D:\visual comp\laboratorio1\laboratorio1\obj\Debug\laboratorio1.csproj.GenerateResource.Cache
+D:\visual comp\laboratorio1\laboratorio1\obj\Debug\laboratorio1.csproj.CoreCompileInputs.cache
+D:\visual comp\laboratorio1\laboratorio1\obj\Debug\laboratorio1.exe
+D:\visual comp\laboratorio1\laboratorio1\obj\Debug\laboratorio1.pdb
+C:\Users\Asus\Desktop\All folders\Universidad Gabriel\Bases de Datos\laboratorio1\laboratorio1\bin\Debug\laboratorio1.exe.config
+C:\Users\Asus\Desktop\All folders\Universidad Gabriel\Bases de Datos\laboratorio1\laboratorio1\bin\Debug\laboratorio1.exe
+C:\Users\Asus\Desktop\All folders\Universidad Gabriel\Bases de Datos\laboratorio1\laboratorio1\bin\Debug\laboratorio1.pdb
+C:\Users\Asus\Desktop\All folders\Universidad Gabriel\Bases de Datos\laboratorio1\laboratorio1\obj\Debug\laboratorio1.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\All folders\Universidad Gabriel\Bases de Datos\laboratorio1\laboratorio1\obj\Debug\laboratorio1.lab1.resources
+C:\Users\Asus\Desktop\All folders\Universidad Gabriel\Bases de Datos\laboratorio1\laboratorio1\obj\Debug\laboratorio1.Properties.Resources.resources
+C:\Users\Asus\Desktop\All folders\Universidad Gabriel\Bases de Datos\laboratorio1\laboratorio1\obj\Debug\laboratorio1.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\All folders\Universidad Gabriel\Bases de Datos\laboratorio1\laboratorio1\obj\Debug\laboratorio1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\All folders\Universidad Gabriel\Bases de Datos\laboratorio1\laboratorio1\obj\Debug\laboratorio1.exe
+C:\Users\Asus\Desktop\All folders\Universidad Gabriel\Bases de Datos\laboratorio1\laboratorio1\obj\Debug\laboratorio1.pdb

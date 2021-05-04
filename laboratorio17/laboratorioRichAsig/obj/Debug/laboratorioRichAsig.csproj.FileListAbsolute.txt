@@ -1,0 +1,12 @@
+E:\visual comp\laboratorio17\laboratorioRichAsig\bin\Debug\laboratorioRichAsig.exe.config
+E:\visual comp\laboratorio17\laboratorioRichAsig\obj\Debug\laboratorioRichAsig.csprojResolveAssemblyReference.cache
+D:\visual comp\laboratorio17\laboratorioRichAsig\bin\Debug\laboratorioRichAsig.exe.config
+D:\visual comp\laboratorio17\laboratorioRichAsig\bin\Debug\laboratorioRichAsig.exe
+D:\visual comp\laboratorio17\laboratorioRichAsig\bin\Debug\laboratorioRichAsig.pdb
+D:\visual comp\laboratorio17\laboratorioRichAsig\obj\Debug\laboratorioRichAsig.csprojResolveAssemblyReference.cache
+D:\visual comp\laboratorio17\laboratorioRichAsig\obj\Debug\laboratorioRichAsig.Form1.resources
+D:\visual comp\laboratorio17\laboratorioRichAsig\obj\Debug\laboratorioRichAsig.Properties.Resources.resources
+D:\visual comp\laboratorio17\laboratorioRichAsig\obj\Debug\laboratorioRichAsig.csproj.GenerateResource.Cache
+D:\visual comp\laboratorio17\laboratorioRichAsig\obj\Debug\laboratorioRichAsig.csproj.CoreCompileInputs.cache
+D:\visual comp\laboratorio17\laboratorioRichAsig\obj\Debug\laboratorioRichAsig.exe
+D:\visual comp\laboratorio17\laboratorioRichAsig\obj\Debug\laboratorioRichAsig.pdb

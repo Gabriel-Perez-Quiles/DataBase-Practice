@@ -1,0 +1,9 @@
+E:\visual comp\laboratorio7\laboratorio7\bin\Debug\laboratorio7.exe.config
+E:\visual comp\laboratorio7\laboratorio7\bin\Debug\laboratorio7.exe
+E:\visual comp\laboratorio7\laboratorio7\bin\Debug\laboratorio7.pdb
+E:\visual comp\laboratorio7\laboratorio7\obj\Debug\laboratorio7.Laboratorio7.resources
+E:\visual comp\laboratorio7\laboratorio7\obj\Debug\laboratorio7.Properties.Resources.resources
+E:\visual comp\laboratorio7\laboratorio7\obj\Debug\laboratorio7.csproj.GenerateResource.Cache
+E:\visual comp\laboratorio7\laboratorio7\obj\Debug\laboratorio7.exe
+E:\visual comp\laboratorio7\laboratorio7\obj\Debug\laboratorio7.pdb
+E:\visual comp\laboratorio7\laboratorio7\obj\Debug\laboratorio7.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+E:\visual comp\laboratorio5\laboratorio5\bin\Debug\laboratorio5.exe.config
+E:\visual comp\laboratorio5\laboratorio5\bin\Debug\laboratorio5.exe
+E:\visual comp\laboratorio5\laboratorio5\bin\Debug\laboratorio5.pdb
+E:\visual comp\laboratorio5\laboratorio5\obj\Debug\laboratorio5.csprojResolveAssemblyReference.cache
+E:\visual comp\laboratorio5\laboratorio5\obj\Debug\laboratorio5.Properties.Resources.resources
+E:\visual comp\laboratorio5\laboratorio5\obj\Debug\laboratorio5.csproj.GenerateResource.Cache
+E:\visual comp\laboratorio5\laboratorio5\obj\Debug\laboratorio5.exe
+E:\visual comp\laboratorio5\laboratorio5\obj\Debug\laboratorio5.pdb
+E:\visual comp\laboratorio5\laboratorio5\obj\Debug\laboratorio5.laboratorio5.resources

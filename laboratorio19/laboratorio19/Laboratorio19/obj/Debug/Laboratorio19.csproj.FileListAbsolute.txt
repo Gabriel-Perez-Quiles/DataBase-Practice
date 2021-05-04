@@ -1,0 +1,23 @@
+D:\Laboratorios Visual Computing\Laboratorio19\Laboratorio19\Laboratorio19\bin\Debug\Laboratorio19.exe.config
+D:\Laboratorios Visual Computing\Laboratorio19\Laboratorio19\Laboratorio19\bin\Debug\Login.accdb
+D:\Laboratorios Visual Computing\Laboratorio19\Laboratorio19\Laboratorio19\bin\Debug\Laboratorio19.exe
+D:\Laboratorios Visual Computing\Laboratorio19\Laboratorio19\Laboratorio19\bin\Debug\Laboratorio19.pdb
+D:\Laboratorios Visual Computing\Laboratorio19\Laboratorio19\Laboratorio19\obj\Debug\Laboratorio19.csprojResolveAssemblyReference.cache
+D:\Laboratorios Visual Computing\Laboratorio19\Laboratorio19\Laboratorio19\obj\Debug\Laboratorio19.Form1.resources
+D:\Laboratorios Visual Computing\Laboratorio19\Laboratorio19\Laboratorio19\obj\Debug\Laboratorio19.Properties.Resources.resources
+D:\Laboratorios Visual Computing\Laboratorio19\Laboratorio19\Laboratorio19\obj\Debug\Laboratorio19.csproj.GenerateResource.Cache
+D:\Laboratorios Visual Computing\Laboratorio19\Laboratorio19\Laboratorio19\obj\Debug\Laboratorio19.exe
+D:\Laboratorios Visual Computing\Laboratorio19\Laboratorio19\Laboratorio19\obj\Debug\Laboratorio19.pdb
+D:\Laboratorios Visual Computing\Laboratorio19\Laboratorio19\Laboratorio19\bin\Debug\Login (access 2002-2003).accdb
+C:\Users\Asus\Desktop\Leo\Laboratorio19\Laboratorio19\Laboratorio19\bin\Debug\Login (access 2002-2003).accdb
+C:\Users\Asus\Desktop\Leo\Laboratorio19\Laboratorio19\Laboratorio19\bin\Debug\Login.accdb
+C:\Users\Asus\Desktop\Leo\Laboratorio19\Laboratorio19\Laboratorio19\bin\Debug\Laboratorio19.exe.config
+C:\Users\Asus\Desktop\Leo\Laboratorio19\Laboratorio19\Laboratorio19\bin\Debug\Laboratorio19.exe
+C:\Users\Asus\Desktop\Leo\Laboratorio19\Laboratorio19\Laboratorio19\bin\Debug\Laboratorio19.pdb
+C:\Users\Asus\Desktop\Leo\Laboratorio19\Laboratorio19\Laboratorio19\obj\Debug\Laboratorio19.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Leo\Laboratorio19\Laboratorio19\Laboratorio19\obj\Debug\Laboratorio19.Form1.resources
+C:\Users\Asus\Desktop\Leo\Laboratorio19\Laboratorio19\Laboratorio19\obj\Debug\Laboratorio19.Properties.Resources.resources
+C:\Users\Asus\Desktop\Leo\Laboratorio19\Laboratorio19\Laboratorio19\obj\Debug\Laboratorio19.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\Leo\Laboratorio19\Laboratorio19\Laboratorio19\obj\Debug\Laboratorio19.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Leo\Laboratorio19\Laboratorio19\Laboratorio19\obj\Debug\Laboratorio19.exe
+C:\Users\Asus\Desktop\Leo\Laboratorio19\Laboratorio19\Laboratorio19\obj\Debug\Laboratorio19.pdb

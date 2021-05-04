@@ -1,0 +1,9 @@
+E:\visual comp\laboratorio14\laboratorio14\bin\Debug\laboratorio14.exe.config
+E:\visual comp\laboratorio14\laboratorio14\bin\Debug\laboratorio14.exe
+E:\visual comp\laboratorio14\laboratorio14\bin\Debug\laboratorio14.pdb
+E:\visual comp\laboratorio14\laboratorio14\obj\Debug\laboratorio14.csprojResolveAssemblyReference.cache
+E:\visual comp\laboratorio14\laboratorio14\obj\Debug\laboratorio14.ListBox.resources
+E:\visual comp\laboratorio14\laboratorio14\obj\Debug\laboratorio14.Properties.Resources.resources
+E:\visual comp\laboratorio14\laboratorio14\obj\Debug\laboratorio14.csproj.GenerateResource.Cache
+E:\visual comp\laboratorio14\laboratorio14\obj\Debug\laboratorio14.exe
+E:\visual comp\laboratorio14\laboratorio14\obj\Debug\laboratorio14.pdb

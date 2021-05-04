@@ -1,0 +1,9 @@
+E:\visual comp\laboratiorio15\laboratiorio15\bin\Debug\laboratiorio15.exe.config
+E:\visual comp\laboratiorio15\laboratiorio15\bin\Debug\laboratiorio15.exe
+E:\visual comp\laboratiorio15\laboratiorio15\bin\Debug\laboratiorio15.pdb
+E:\visual comp\laboratiorio15\laboratiorio15\obj\Debug\laboratiorio15.csprojResolveAssemblyReference.cache
+E:\visual comp\laboratiorio15\laboratiorio15\obj\Debug\laboratiorio15.Form1.resources
+E:\visual comp\laboratiorio15\laboratiorio15\obj\Debug\laboratiorio15.Properties.Resources.resources
+E:\visual comp\laboratiorio15\laboratiorio15\obj\Debug\laboratiorio15.csproj.GenerateResource.Cache
+E:\visual comp\laboratiorio15\laboratiorio15\obj\Debug\laboratiorio15.exe
+E:\visual comp\laboratiorio15\laboratiorio15\obj\Debug\laboratiorio15.pdb
